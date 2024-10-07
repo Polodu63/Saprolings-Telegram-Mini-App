@@ -25,3 +25,7 @@ This project aims to build a versatile Telegram mini-app that integrates with We
 - Paul Mizoule DAO Liaison Officer - [LinkedIn](https://www.linkedin.com/in/paul-mizoule/)
 - Jessica Nascimento Saprolings Partner - [LinkedIn](https://www.linkedin.com/in/jessicasnascimento/)
 - Daniel Kwak Saprolings Partner - [LinkedIn](https://www.linkedin.com/in/dkwak/)
+
+## Saprolings links:
+[Website](https://saprolings.com)
+[Linktree](https://linktr.ee/saprolings)
